@@ -102,8 +102,8 @@ Bridge the gap between **Infrastructure, DevOps, Databases, Payment Systems, and
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn Profile
-- Email: your.email@example.com
+- LinkedIn: linkedin.com/in/s-asmaul-husna-punom-a598891ba
+- Email: ashpunom5@gmail.com
 
 ---
 
