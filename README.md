@@ -1,124 +1,75 @@
-# 👋 Hi, I'm Punom
+# Hi there, I'm Ash Punom 👋
 
-## System Support Engineer | DevOps Enthusiast | AI Enthusiast
-
-I work across **infrastructure, application support, databases, deployments, monitoring, and payment gateway operations**, helping keep systems stable, secure, and running smoothly.
-
----
-
-## 🚀 About Me
-
-- 🔹 System Support Engineer with hands-on experience in **application deployment, infrastructure management, and production support**.
-- 🔹 Skilled in **Linux administration, server monitoring, incident response, and troubleshooting**.
-- 🔹 Experienced in **database management, backup & recovery, and query troubleshooting**.
-- 🔹 Perform **proactive server monitoring, log analysis, and performance optimization** to ensure maximum uptime and reliability.
-- 🔹 Work with **payment gateway verification, transaction validation, and service issue investigation**.
-- 🔹 Passionate about **DevOps, Cloud Infrastructure, Machine Learning, and Artificial Intelligence**.
-- 🔹 Currently learning **Machine Learning, AI applications, and modern cloud-native technologies**.
+🚀 System Support Engineer | 🖥️ Server Monitoring | 🗄️ Database & Backend Systems  
+🤖 AI/ML Enthusiast (Learning Phase) | 🔐 Payment Gateway Verification | ⚙️ DevOps Curious
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 About Me
 
-### Infrastructure & Operations
-- Linux Administration
-- Server Monitoring & Health Checks
-- Incident Management
-- Log Analysis & Troubleshooting
-- Performance Optimization
-- Backup & Recovery
+I’m a tech-focused engineer working around **production systems, server health, and backend reliability**.  
+I specialize in monitoring systems, managing databases, and ensuring smooth service uptime in live environments.
 
-### DevOps & Automation
-- Docker
-- Kubernetes
-- Git
-- CI/CD Pipelines
-- Deployment Automation
+Currently, I’m also exploring **Machine Learning & Artificial Intelligence** to expand into intelligent systems and automation.
 
-### Web & Application Stack
-- Laravel
-- PHP
-- Nginx
-- Apache
-- REST APIs
-
-### Database Management
-- MySQL
-- Database Administration
-- Backup & Recovery
-- Query Optimization
-- Database Troubleshooting
-
-### Payment Operations
-- Payment Gateway Verification
-- Transaction Validation
-- Payment Service Monitoring
-- Issue Investigation & Resolution
+💡 I enjoy solving real-world infrastructure problems, optimizing systems, and building reliable backend workflows.
 
 ---
 
-## 💼 What I Do
+## 🛠️ What I Do
 
-- ✔ Application Deployment & Maintenance
-- ✔ Production Support & Issue Resolution
-- ✔ Server Monitoring & Infrastructure Health Checks
-- ✔ Database Management & Troubleshooting
-- ✔ Payment Gateway Verification & Service Validation
-- ✔ Transaction Issue Investigation
-- ✔ CI/CD Pipeline Management
-- ✔ Web Server Configuration (Nginx / Apache)
-- ✔ Performance Optimization
-- ✔ Root Cause Analysis & Incident Investigation
+- 🖥️ Server Monitoring & Incident Handling (Linux/Windows)
+- 🗄️ Database Management (MySQL, PostgreSQL basics, optimization)
+- 🔐 Payment Gateway Integration & Verification Support
+- ⚙️ CI/CD & Deployment Support (basic DevOps exposure)
+- 📊 Log Analysis & System Debugging
+- 🤖 Learning Machine Learning & AI (Python, models, concepts)
 
 ---
 
-## 📌 Featured Areas
+## 📚 Currently Learning
 
-- Infrastructure & Server Operations
-- Database Administration
-- Payment Gateway Operations
-- DevOps & CI/CD
-- Monitoring & Reliability Engineering
+- Machine Learning fundamentals (scikit-learn, pandas, numpy)
+- AI/LLM concepts & prompt engineering
+- Advanced Linux system administration
+- Cloud & DevOps tools (Docker, basic Kubernetes)
 
 ---
 
-## 📊 Current Focus
+## 💻 Tech Stack
 
-### Learning & Exploring
+**Languages:**  
+`Python` `SQL` `Bash` `JavaScript (basic)`
 
-- Machine Learning Fundamentals
-- Artificial Intelligence Applications
-- Kubernetes Administration
-- Cloud Infrastructure
-- Infrastructure as Code (IaC)
-- Monitoring & Observability
-- MLOps & AI Deployment Workflows
+**Systems & Tools:**  
+`Linux` `Git` `Nginx` `Apache` `MySQL` `PostgreSQL`
 
-### Goal
+**Monitoring & Ops:**  
+`Server Logs` `Uptime Monitoring` `CI/CD basics`
 
-Bridge the gap between **Infrastructure, DevOps, Databases, Payment Systems, and AI-driven solutions**.
+---
+
+## 📈 What I'm Focused On
+
+- Improving system reliability in production environments  
+- Learning AI/ML to automate backend & monitoring tasks  
+- Strengthening backend architecture understanding  
+- Moving toward **AI + DevOps / MLOps path**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/s-asmaul-husna-punom-a598891ba
-- Email: ashpunom5@gmail.com
+- GitHub: https://github.com/YOUR_USERNAME  
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+- Email: your.email@example.com  
 
 ---
 
-### Tech Stack
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
----
-
-> *"Keeping systems reliable today while building skills in AI and Machine Learning for tomorrow."*
+⭐ *"Build systems that don’t just run — but think, adapt, and scale."*
