@@ -6,126 +6,226 @@
 
 <h2 align="center">Hi, I'm <b>Punom</b> 👨‍💻</h2>
 
-<p align="center">
-  🖥️ System Support Engineer • 🗄️ Database & Backend Systems • 🔐 Payment Gateway Verification  
-  <br>
-  🤖 AI/ML Enthusiast (Learning Phase) • ⚙️ Server Monitoring Specialist
-</p>
+<div align="center">
+
+
+
+# 🧑‍💻 About Me
+
+I'm a **System Support Engineer** passionate about ensuring reliability, performance, and stability across business-critical systems.
+
+My expertise spans:
+
+🔹 Infrastructure Management & Operations
+🔹 Application Deployment & Production Support
+🔹 Database Administration & Optimization
+🔹 Server Monitoring & Incident Response
+🔹 Payment Gateway Verification & Transaction Validation
+🔹 Troubleshooting & Root Cause Analysis
+
+Currently expanding my knowledge in:
+
+🤖 Machine Learning
+🧠 Artificial Intelligence
+☁️ Cloud Infrastructure
+⚙️ DevOps & Automation
+📊 Observability & Monitoring
 
 ---
 
-## 🌟 Research & Innovation Focused
+# 🚀 What I Do
 
-<p align="center">
-  <b>🚀 Building reliable systems • Scaling backend infrastructure • Learning AI • Automating operations</b>
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### 🖥️ Infrastructure & Operations
 
-## 🔘 Connect With Me
+* Linux Administration
+* Production Support
+* Server Monitoring
+* Incident Response
+* Log Analysis
+* Backup & Recovery
+* System Maintenance
+* Performance Optimization
 
-<p align="center">
+</td>
 
-  <a href="https://YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=web&logoColor=white">
-  </a>
+<td width="50%">
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+### ⚙️ DevOps & Automation
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+* Docker
+* Kubernetes
+* Git & GitHub
+* CI/CD Pipelines
+* Deployment Automation
+* Environment Management
+* Infrastructure Reliability
+* Monitoring Solutions
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-</p>
-
----
-
-## 🧠 About Me
-
-- 🖥️ Working in **production system support & server monitoring**
-- 🗄️ Handling **database management, optimization & troubleshooting**
-- 🔐 Experience in **payment gateway verification & integration support**
-- ⚙️ Exposure to **CI/CD pipelines & deployment workflows**
-- 🤖 Actively learning **Machine Learning & Artificial Intelligence**
-- 📡 Passionate about **system reliability & backend architecture**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🗄️ Database Management
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
+* MySQL Administration
+* Database Optimization
+* Query Troubleshooting
+* Backup & Recovery
+* Database Monitoring
+* Performance Analysis
 
 ---
 
-## 🚀 Current Focus
+# 💳 Payment Operations
 
-<p align="center">
-  🤖 Machine Learning Basics • ⚙️ Linux System Mastery • ☁️ Cloud & DevOps • 📊 Automation & Monitoring
-</p>
+Ensuring secure and reliable transaction services through:
 
----
+✅ Payment Gateway Verification
 
-## 📊 GitHub Stats
+✅ Transaction Validation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+✅ Service Monitoring
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+✅ Production Issue Investigation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+✅ Payment Flow Troubleshooting
+
+✅ Incident Resolution
 
 ---
 
-## 📌 Featured Interests
+# 🛠️ Technology Stack
 
-- 🔧 System Reliability Engineering  
-- 📡 Server Monitoring & Incident Response  
-- 🗄️ Database Performance Tuning  
-- 🤖 AI & Machine Learning Exploration  
-- ⚙️ Backend Architecture Design  
+### Operating Systems & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### DevOps & Automation
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+
+### Backend & Web Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Currently Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
 
 ---
 
-## 🧩 Fun Side
+# 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+### 🔹 BSTI QR Code Verification System
+
+* Application deployment & maintenance
+* Infrastructure monitoring
+* Production troubleshooting
+* Service reliability support
+
+### 🔹 Partner Portal
+
+* Laravel application support
+* Database management
+* CI/CD deployment activities
+* Performance optimization
+
+### 🔹 CRM Environments
+
+* UAT & Production maintenance
+* Configuration management
+* Service monitoring
+* Issue resolution
 
 ---
 
-## 💬 Quote I Follow
+# 🎯 Current Focus
 
-<p align="center">
-  <i>"Stable systems are not built — they are engineered, monitored, and improved continuously."</i>
-</p>
+### Learning & Exploring
+
+* Machine Learning Fundamentals
+* AI Applications
+* Kubernetes Administration
+* Cloud Infrastructure
+* Infrastructure as Code (IaC)
+* Monitoring & Observability
+* MLOps Foundations
+
+### Vision
+
+> Building a career that bridges Infrastructure, DevOps, Databases, Payment Systems, and AI-powered automation.
 
 ---
 
-## 🔥 Final Touch
+# 🏆 Areas of Interest
 
-<p align="center">
-  ⭐ If you like my work, feel free to follow and connect!
-</p>
+🚀 DevOps Engineering
+
+📡 Site Reliability Engineering (SRE)
+
+☁️ Cloud Infrastructure
+
+🧠 Artificial Intelligence
+
+🤖 Machine Learning
+
+⚙️ System Automation
+
+📊 Observability & Monitoring
+
+🔐 Production Reliability
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ash-Punom&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Punom&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Ash-Punom&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+### GitHub
+
+https://github.com/Ash-Punom
+
+### LinkedIn
+
+https://linkedin.com/in/s-asmaul-husna-punom-a598891ba
+
+---
+
+<div align="center">
+
+### 💡 Personal Motto
+
+*"Keeping systems reliable today while building intelligent solutions for tomorrow."*
+
+</div>
+
